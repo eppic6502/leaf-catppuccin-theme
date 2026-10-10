@@ -1,4 +1,4 @@
-# Catppuchin for [leaf](https://github.com/RivoLink/leaf)
+# Catppuccin for [leaf](https://github.com/RivoLink/leaf)
 
 ## Preview
 
